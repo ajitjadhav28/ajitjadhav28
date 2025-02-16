@@ -59,13 +59,6 @@ Welcome to my digital space! I'm Ajit, a passionate Software Engineer with a str
 
 ---
 
-## 🚀 Featured
-
-**[ElectronicWings Website](https://www.electronicwings.com)**  
-Co-contributed to the design & development of an interactive electronics community platform, modernizing the front-end and optimizing performance.
-
----
-
 ## 🌱 Always Learning
 
 I'm constantly exploring new technologies and improving my skills. Whether it’s diving deeper into AI/ML or optimizing cloud infrastructure, I enjoy taking on challenges that expand my horizons.
